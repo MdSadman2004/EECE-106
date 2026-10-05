@@ -1,0 +1,29 @@
+{
+  "kind": "source-guide",
+  "source_head": "f37708fef9dbff6467f11daf05155f114eaa7a0e",
+  "source_tree": "72d897af8e04e6831e05f21f12c61311467368d0",
+  "source_repository": "https://github.com/MdSadman2004/EECE-106",
+  "nodes": [
+    {
+      "label": "Project presentation",
+      "path": "src/App.tsx",
+      "detail": "Objective, implementation outline and team"
+    },
+    {
+      "label": "Frontend entry",
+      "path": "src/main.tsx",
+      "detail": "React application bootstrap"
+    },
+    {
+      "label": "Build commands",
+      "path": "package.json",
+      "detail": "Vite development and production scripts"
+    }
+  ],
+  "caption": "Source guide drawn from repository files; not a runtime screenshot or fresh benchmark.",
+  "generated_by": "render_guides.py",
+  "image_dimensions": [
+    1600,
+    960
+  ]
+}
